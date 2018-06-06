@@ -19,7 +19,7 @@ export class DefaultPage extends Component {
         <header className="app-header">
           <img src={reactLogo} className="app-logo" alt="logo" />
           <img src={rekitLogo} className="rekit-logo" alt="logo" />
-          <h1 className="app-title">Welcome to React!!!!!!!!!!!!!</h1>
+          <h1 className="app-title">Welcome to React</h1>
         </header>
         <div className="app-intro">
           <h3>To get started:</h3>
